@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Sanjay Chudali
+![sanjay](https://github.com/user-attachments/assets/b7eaa601-301e-4cd6-be4c-ef7a97f86d5d)
 
-<!--
-**sanjaynep/sanjaynep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python | 🕸️ Django | 🔗 API Builder  
 
-Here are some ideas to get you started:
+I turn coffee ☕ into **secure Django backends**.  
+Fresher developer focused on **REST APIs, authentication**, and clean backend logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ What I work with
+- Python, Django, Django REST Framework  
+- JWT, Session & Basic Authentication  
+- REST APIs, CRUD, Permissions  
+- HTML, CSS, Bootstrap  
+- Celery & Docker (basics)  
+- Git & GitHub  
+
+---
+
+## 🤝 Open to collaborate on
+- Django & DRF projects  
+- API-driven applications  
+- Beginner-friendly open-source  
+- Backend-heavy ideas (I love APIs 😄)
+
+---
+
+## 📫 Let’s connect
+- GitHub: https://github.com/sanjaynep  
+- LinkedIn: https://www.linkedin.com/in/sanjaychudali01  
+- Email: poudelsanjay93@gmail.com  
