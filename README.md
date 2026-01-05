@@ -1,9 +1,9 @@
 # Hi 👋 I'm Sanjay Chudali
-![sanjay](https://github.com/user-attachments/assets/b7eaa601-301e-4cd6-be4c-ef7a97f86d5d)
 
-🐍 Python | 🕸️ Django | 🔗 API Builder  
 
-I turn coffee ☕ into **secure Django backends**.  
+🐍 Python | 🕸️ Django | 🔗 Django Rest Framework 
+
+ **secure Django backends**.  
 Fresher developer focused on **REST APIs, authentication**, and clean backend logic.
 
 ---
@@ -22,7 +22,7 @@ Fresher developer focused on **REST APIs, authentication**, and clean backend lo
 - Django & DRF projects  
 - API-driven applications  
 - Beginner-friendly open-source  
-- Backend-heavy ideas (I love APIs 😄)
+- Backend-heavy ideas ()
 
 ---
 
