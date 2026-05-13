@@ -9,7 +9,7 @@ Fresher developer focused on **REST APIs, authentication**, and clean backend lo
 ---
 
 ## 🛠️ What I work with
-- Python, Django, Django REST Framework  
+- Python, Django, Django REST Framework ,data visualization, data analysis
 - JWT, Session & Basic Authentication  
 - REST APIs, CRUD, Permissions  
 - HTML, CSS, Bootstrap  
